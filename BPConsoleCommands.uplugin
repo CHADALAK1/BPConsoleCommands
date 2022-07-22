@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BPConsoleCommands",
+	"Description": "Create Blueprint Console Commands via ConsoleCommandManager component. Easily test commands (even via RPCs). ",
+	"Category": "Other",
+	"CreatedBy": "Chad Reddick",
+	"CreatedByURL": "https://www.chadreddick.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BPConsoleCommands",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
